@@ -1,0 +1,7 @@
+[Employee Details]
+ID: 4092
+Role: Senior Network Engineer
+Secure Email: alexmercer99@email.com
+
+[Travel Update]
+Leaving the country tonight. Flight is booked. Will check into the hotel near Big Ben as soon as I land.
